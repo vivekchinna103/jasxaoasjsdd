@@ -1,0 +1,15 @@
+SEARCH_API_KEY=DDghOcnFbOjOb7ipzZZBqa0xAuTkQVGtEWM9BWQZmXAzSeDtdMW7
+SEARCH_API_ENDPOINT='https://case-study-search.search.windows.net'
+DB_CONNECTION_STRING='Server=tcp:case-study-poc.database.windows.net,1433;Initial Catalog=case-study-db;Persist Security Info=False;User ID=dbadmin;Password=db@admin12345;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;'
+DB_USER='dbadmin'
+DB_PASSWORD='db@admin12345'
+DB_NAME='case-study-db'
+DB_SERVER='case-study-poc.database.windows.net'
+AZURE_STORAGE_ACCOUNT_NAME='casestudystgacc'
+AZURE_STORAGE_ACCOUNT_KEY='91mplEP2wv9FNDa0Q2xe+2sFZlDz0If0lR4thVNHZvSg/3bfqcudc22m8L/KnG35kLf63VkS9bvk+AStjAqXtw=='
+INDEX_NAME='dlcasestudy'
+CONTAINER_NAME='cases'
+DATA_SOURCE_NAME="dlsqldata"
+DB_CONN_STR="Server=tcp:case-study-poc.database.windows.net,1433;Initial Catalog=case-study-db;Persist Security Info=False;User ID=dbadmin;Password=db@admin12345;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"
+TABLE_NAME="case_studies"
+INDEX_1='azureblob-index1'
